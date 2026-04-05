@@ -26,3 +26,5 @@ qBruce is a qFlipper like app that makes it easy to manage & control your Bruce 
 *To enable location services, press win + r & type "ms-settings:privacy-location", then tick first 2 checkboxs*
 
 ---
+
+<img width="938" height="541" alt="Screenshot of qBruce" src="https://github.com/user-attachments/assets/0662d154-fa7a-4c8f-aa9a-412559be88eb" />
